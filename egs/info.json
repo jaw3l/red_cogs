@@ -1,0 +1,16 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "name": "Epic Games Store - Free Games",
+    "short": "EGS",
+    "description": "Fetches current and upcoming free games on Epic Games Store.",
+    "end_user_data_statement": "This cog stores your any end user data.",
+    "install_msg": "**Hello,**\nThank you for installing Epic Games Store - Free Games Fether! You can learn about more if you type `[p]help EGS`\n\n-jaw3l",
+    "author": ["jaw3l"],
+    "required_cogs": {},
+    "requirements": ["discord", "datetime", "bs4", "colorthief", "io", "httpx"],
+    "tags": ["Epic Games Store", "EGS", "EGS Free Games", "Epic Free Games", "Epic Games Store Free Games"],
+    "min_bot_version": "3.3.10",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}
