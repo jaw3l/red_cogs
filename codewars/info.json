@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+  "name": "Codewars",
+  "short": "cw",
+  "description": "Fetches profile info, last completed katas, kata info from Codewars.",
+  "end_user_data_statement": "This cog does not stores your any end user data without your consent.",
+  "install_msg": "**Hello,**\nThank you for installing Codewars cog! You can learn about more if you type `[p]help cw`\n\n-jaw3l",
+  "author": ["jaw3l"],
+  "required_cogs": {},
+  "requirements": ["discord", "time", "datetime", "lxml", "httpx"],
+  "tags": [
+    "Codewars",
+    "CW",
+    "Codewars Kata",
+    "Codewars Profile Info",
+    "Codewars Last Completed Katas"
+  ],
+  "min_bot_version": "3.3.10",
+  "hidden": false,
+  "disabled": false,
+  "type": "COG"
+}
