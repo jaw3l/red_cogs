@@ -40,9 +40,9 @@ Or you can use one command to install all requirements:
 
 `[p]pipinstall colorthief datetime httpx`
 
-### Codewars
+### CODEWARS
 
-Fethes data from Codewars. It can fetch:
+Fethes data from [Codewars](https://www.codewars.com). It can fetch:
 
 - User's profile information
 - Last completed katas
@@ -79,7 +79,11 @@ You can install the requirements seperately:
 
 `[p]pipinstall time` - Required for converting ISO 8601 time to unix (epoch) time
 
-##### Credits
+Or you can use one command to install all requirements:
+
+`[p]pipinstall httpx lxml datetime time`
+
+#### Credits
 
 [httpx](https://pypi.org/project/httpx/) - HTTPX is a fully featured HTTP client library for Python 3.
 
