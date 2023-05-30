@@ -1,7 +1,7 @@
 from .main import EGS
 
 
-def setup(bot):
+async def setup(bot):
     """
     Initialize the EGS cog.
     """

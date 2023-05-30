@@ -1,5 +1,5 @@
 from .main import Codewars
 
 
-def setup(bot):
+async def setup(bot):
     bot.add_cog(Codewars(bot))
